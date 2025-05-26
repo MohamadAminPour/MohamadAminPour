@@ -4,5 +4,6 @@
   <p align="left">Hello bro, this is TorNaDo !</p>
   <p>Im frontend developer and a little backend 🤏❤️</p>
   <P>My skills 👇💎</P>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,ts,redux,npm,git,github,figma,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=,ts,redux,npm,git,github,figma,php,mysql" />
 </div>
