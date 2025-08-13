@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div>
-  <img align="right" width="50%" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" />
+  <img align="right" width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhVpdY3T94f4x7IP6hu7DAI_CMzm6syA1Gw&s" />
   <p width="50%" align="left">Hello bro, this is TorNaDo !</p>
   <p width="50%">Im frontend developer and a little backend 🤏❤️</p>
   <P width="50%">My skills</P>
