@@ -5,6 +5,6 @@
   <p width="50%">Im frontend developer and a little backend 🤏❤️</p>
   <P width="50%">My skills</P>
   <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,npm,git,github" />
-  <img src="https://skillicons.dev/icons?i=figma,nodejs,express,mysql,mongo" />
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,npm,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongo" />
 </div>
