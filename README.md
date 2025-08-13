@@ -6,5 +6,5 @@
   <P width="50%">My skills</P>
   <img  src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react" />
   <img src="https://skillicons.dev/icons?i=nextjs,ts,npm,git,github" />
-  <img src="https://skillicons.dev/icons?i=figma,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=figma,nodejs,express,mysql,mongo" />
 </div>
